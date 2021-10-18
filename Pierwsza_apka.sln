@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pierwsza_apka", "Pierwsza_apka.csproj", "{808ADD3B-76AF-44FD-B3FE-7E03E3F90021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808ADD3B-76AF-44FD-B3FE-7E03E3F90021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808ADD3B-76AF-44FD-B3FE-7E03E3F90021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808ADD3B-76AF-44FD-B3FE-7E03E3F90021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808ADD3B-76AF-44FD-B3FE-7E03E3F90021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B6DB8F-A29C-4154-B89C-0143DC0E82A9}
+	EndGlobalSection
+EndGlobal
